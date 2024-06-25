@@ -10,7 +10,8 @@ Proyek ini adalah contoh sederhana dari penggunaan Gradle untuk membuat tugas kh
 2. Buka terminal dan navigasikan ke direktori proyek.
 3. Jalankan perintah berikut untuk menjalankan tugas dengan parameter nama:
 
-   ```sh
    ./gradlew greetingTask -Pnama=YourName
+
+   ##Screnshoot
    ![WhatsApp Image 2024-06-24 at 20 35 01_89507337](https://github.com/Devialijay/Homework18/assets/170807948/d09bfbe3-ecb1-419b-b4b3-9c996112a8a0)
 
